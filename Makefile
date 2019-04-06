@@ -3,8 +3,8 @@ build_help:
 	--clean \
 	--author NSOmar \
 	--author_url https://nsomar.com \
-	--github_url https://github.com/swiftline/swiftline \
-	--github-file-prefix https://github.com/swiftline/swiftline \
+	--github_url https://github.com/bravendary/swiftline \
+	--github-file-prefix https://github.com/bravendary/swiftline \
 	--module-version 0.2.0 \
 	--xcodebuild-arguments -scheme,Swiftline \
 	--module Swiftline \
